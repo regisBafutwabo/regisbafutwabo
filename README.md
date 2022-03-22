@@ -13,7 +13,7 @@ Hi,👋🏾 I'm Regis, I am a software developer with 3 years of professional ex
 
 ## About Me
 
-- 🌱 I’m currently learning Rust 
+- 🌱 I’m currently learning Threejs and AWS amplify 
 - 📫 How to reach me: regiswareja@gmail.com
 - ⚡ Fun fact: I focus way better with Hip-Hop music on
 
