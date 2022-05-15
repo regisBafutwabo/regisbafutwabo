@@ -2,7 +2,7 @@
 
 Hi,👋🏾 I'm Regis, I am a software developer with almost 4 years of professional experience. 
 
-Some of the products that I built by myself includes a blockchain explorer(React) and a blockchain wallet(React-native) for an EOS based platform(LEDGIS) using React and EOSJS while styling them with styled-components and Ant.design. I have worked alot with GraphQL that I even created a Apollo client boilerplate(ARCHIVED for now becuse I need to update it to v3) to reduce the time people spend configuring it. In these days, I am kinda falling in love with Nextjs since it's hitting most of my boxes😉. 
+Some of the products that I built by myself includes a blockchain explorer(React) and a blockchain wallet(React-native) for an EOS based platform using React and EOSJS while styling them with styled-components and Ant.design. I have worked alot with GraphQL that I even created a Apollo client boilerplate(ARCHIVED for now becuse I need to update it to v3) to reduce the time people spend configuring it. In these days, I am kinda falling in love with Nextjs since it's hitting most of my boxes😉. 
 
 Over the last three years I have been learning alot on how to improve the developer experience for the teams that I work with by applying some patterns in the products that we build so that we can make those products reliable and very flexible to change. The tech platforms and interests that I am mostly interested in includes but not limited to:
 - Reactjs.
