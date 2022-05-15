@@ -1,21 +1,31 @@
 ### Regis Bafutwabo
 
-Hi,👋🏾 I'm Regis, I am a software developer with 3 years of professional experience. I'm a software developer and an enthusiast of using tech to solve problems. The list of things I'm incredibly passionate about includes:
+Hi,👋🏾 I'm Regis, I am a software developer with almost 4 years of professional experience. 
+
+Some of the products that I built by myself includes a blockchain explorer(React) and a blockchain wallet(React-native) for an EOS based platform(LEDGIS) using React and EOSJS while styling them with styled-components and Ant.design. I have worked alot with GraphQL that I even created a Apollo client boilerplate(ARCHIVED for now becuse I need to update it to v3) to reduce the time people spend configuring it. In these days, I am kinda falling in love with Nextjs since it's hitting most of my boxes😉. 
+
+Over the last three years I have been learning alot on how to improve the developer experience for the teams that I work with by applying some patterns in the products that we build so that we can make those products reliable and very flexible to change. The tech platforms and interests that I am mostly interested in includes but not limited to:
 - Reactjs.
 - React-native.
-- NextJS
+- NextJS.
 - Typescript.
-- JavaScript.
+- NestJs.
+- GraphQL
+- Hasura.
+- Apollo Client
+- RelayJs
+- Aws.
+- Gherkin.
+- Cypress.
 - Object-Oriented Programming.
-- web development.
-- design patterns.
-- clean code. 
+- Design patterns.
+- Clean code. 
 
 ## About Me
 
-- 🌱 I’m currently learning Threejs and AWS amplify 
+- 🌱 I’m currently building something with AWS services, Hasura & Next.js
 - 📫 How to reach me: regiswareja@gmail.com
-- ⚡ Fun fact: I focus way better with Hip-Hop music on
+- 👯 I’m open to collaborate on any product which can change some people's lives.
 
 <!--
 **regisBafutwabo/regisbafutwabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
