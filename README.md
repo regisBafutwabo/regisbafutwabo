@@ -2,9 +2,11 @@
 
 Hi,👋🏾 I'm Regis, I am a software developer with almost 4 years of professional experience. 
 
-Some of the products that I built by myself includes a blockchain explorer(React) and a blockchain wallet(React-native) for an EOS based platform using React and EOSJS while styling them with styled-components and Ant.design. I have worked alot with GraphQL that I even created a Apollo client boilerplate(ARCHIVED for now becuse I need to update it to v3) to reduce the time people spend configuring it. In these days, I am kinda falling in love with Nextjs since it's hitting most of my boxes😉. 
+Over the last three+ years I have been learning alot on how to improve the developer experience for the teams that I work with by applying some patterns in the way we build our products so that we can create more reliable and easy to upgrade applications. 
 
-Over the last three years I have been learning alot on how to improve the developer experience for the teams that I work with by applying some patterns in the products that we build so that we can make those products reliable and very flexible to change. The tech platforms and interests that I am mostly interested in includes but not limited to:
+Some of the products that I worked on includes but not limited to a blockchain explorer(React) and a blockchain wallet(React-native) for an EOS based platform, a cohort-based education platform(Next.js) and others. I have become so comfortable with GraphQL APIs that I even created an Apollo client boilerplate(ARCHIVED for now becuse I need to update it to latest version) to reduce the time people spend configuring it. I enjoy learning about new technologies that solve a specific problem. In these days, I am kinda enjoying what Nextjs has to offer since it's hitting most of my boxes😉. 
+
+So far I have professionally used:
 - Reactjs.
 - React-native.
 - NextJS.
@@ -17,9 +19,13 @@ Over the last three years I have been learning alot on how to improve the develo
 - Aws.
 - Gherkin.
 - Cypress.
-- Object-Oriented Programming.
-- Design patterns.
-- Clean code. 
+
+## Interest
+
+- Gaming
+- Learn new things(culture, tech, languages,etc...)
+- Clean code.
+
 
 ## About Me
 
