@@ -2,8 +2,7 @@
 
 Hi,👋🏾 I'm Regis, I am a software developer with almost 4 years of professional experience. 
 
-Over the last three + years, I have been learning and trying to improve alot on how to improve DX for a better UX.
-
+Over the last three + years, I have built multiple web and mobile apps and worked with amazing teams. As I was working with different teams, I got to learn alot about DX(Developer Experience) through the use of clean code and design patterns which became something that I started to care about since then. So if you have a project where I can help hit me up.
 
 So far I have professionally used:
 - Reactjs
