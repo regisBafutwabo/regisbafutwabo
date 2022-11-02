@@ -19,15 +19,14 @@ So far I have professionally used:
 - Cypress
 
 ## Interest
-
-- Gaming
+- UX
 - Learn new things(culture, tech, languages,etc...)
 - Clean code.
 
 
 ## About Me
 
-- 🌱 I’m currently building something with AWS services, Hasura & Next.js
+- 🌱 I’m currently mastering Next.js and playing around with aws cdk
 - 📫 How to reach me: regiswareja@gmail.com
 - 👯 I’m open to collaborate on any product which can change people's lives.
 
