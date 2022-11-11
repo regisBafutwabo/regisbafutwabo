@@ -21,7 +21,7 @@ So far I have professionally used:
 ## Interest
 - UX
 - Learn new things(culture, tech, languages,etc...)
-- Clean code.
+- Exploring beaches 🏖
 
 
 ## About Me
