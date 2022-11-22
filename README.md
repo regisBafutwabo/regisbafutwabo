@@ -1,4 +1,4 @@
-### Regis Bafutwabo
+### Welcome
 
 Hi,👋🏾 I'm Regis, I am a software developer with almost 4 years of professional experience(mostly Frontend development). 
 
