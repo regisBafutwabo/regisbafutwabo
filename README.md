@@ -18,7 +18,6 @@ So far I have professionally used:
 - Aws
 - Gherkin
 - Cypress
-- 
 
 ## Interest
 - UX
