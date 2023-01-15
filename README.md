@@ -27,8 +27,9 @@ So far I have professionally used:
 - Cypress
 
 ## Interest
-- UX
-- Learn new things(culture, tech, languages,etc...)
+- DX(Developer Experience) and UX(User Experience)
+- Always Learning to improve my crafts
+- Meeting people
 - Exploring beaches 🏖
 
 
