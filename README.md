@@ -1,10 +1,10 @@
 ### Welcome
 
-Hi,👋🏾 I'm Regis, I am a software developer with almost 4 years of professional experience(mostly Frontend development). 
+Hi,👋🏾 I'm Regis, I am a Software Developer with a passion for tech.
 
-Over the last three + years, I have built multiple web and mobile apps and worked with amazing teams. As I was working with different teams, I got to learn alot about DX(Developer Experience) through the use of clean code and design patterns which became something that I started to care about since then. So if you have a project where I can help hit me up.
+Over the last three + years, I have built multiple web and mobile apps and worked with amazing people who taught me alot about DX(Developer Experience) through the use of clean code, User Experience, and design patterns which became some of the things that I started to care about since then.
 
-So far I have professionally used:
+Some of the skills I am comfortable with includes:
 - Reactjs
 - React-native
 - NextJS
