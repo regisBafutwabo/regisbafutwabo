@@ -35,9 +35,9 @@ So far I have professionally used:
 
 ## About Me
 
-- 🌱 I’m currently mastering Next.js and playing around with aws cdk
+- 🌱 I’m currently playing around with AWS CDK and it's been fun for now 
 - 📫 How to reach me: regiswareja@gmail.com
-- 👯 I’m open to collaborate on any product which can change people's lives.
+- 👯 I’m open to collaborate on any project which can change people's lives.
 
 <!--
 **regisBafutwabo/regisbafutwabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
