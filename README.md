@@ -14,8 +14,15 @@ So far I have professionally used:
 - GraphQL
 - Hasura
 - Apollo Client
+- Redux
+- Zustand
+- Tailwindcss
+- Chakra-ui
+- Material-ui
+- Ant Design
+- styled-components
 - RelayJs
-- Aws
+- Aws CDK
 - Gherkin
 - Cypress
 
