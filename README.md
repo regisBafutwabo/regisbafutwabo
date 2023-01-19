@@ -31,7 +31,6 @@ Some of the skills I am comfortable with includes:
 - Always Learning to improve my crafts
 - Meeting people
 - Exploring beaches 🏖
-- 
 
 ## About Me
 
