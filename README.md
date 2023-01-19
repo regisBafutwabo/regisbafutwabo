@@ -31,11 +31,11 @@ Some of the skills I am comfortable with includes:
 - Always Learning to improve my crafts
 - Meeting people
 - Exploring beaches 🏖
-
+- 
 
 ## About Me
 
-- 🌱 I’m currently playing around with AWS CDK and it's been fun for now 
+- 🌱 I’m currently interested in learning about Video Player, D3 charts and 3D animation
 - 📫 How to reach me: regiswareja@gmail.com
 - 👯 I’m open to collaborate on any project which can change people's lives.
 
