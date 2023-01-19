@@ -35,7 +35,7 @@ Some of the skills I am comfortable with includes:
 
 ## About Me
 
-- 🌱 I’m currently interested in learning about Video Player, D3 charts and 3D animation
+- 🌱 I’m currently interested in learning about Video Player, D3.js charts, 3D animation(threejs), and webRTC
 - 📫 How to reach me: regiswareja@gmail.com
 - 👯 I’m open to collaborate on any project which can change people's lives.
 
