@@ -23,7 +23,7 @@ Some of the skills I am comfortable with includes:
 - styled-components
 - RelayJs
 - Aws CDK
-- Gherkin
+- CucumberJS
 - Cypress
 
 ## Interest
