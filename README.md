@@ -40,7 +40,6 @@ Some of the skills I am comfortable with includes:
 - 📫 How to reach me: regiswareja@gmail.com
 - 👯 I’m open to collaborate on any project which can change people's lives.
 
-Here below are some of the works I built myself. Enjoy
 <!--
 **regisBafutwabo/regisbafutwabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
