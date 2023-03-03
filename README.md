@@ -1,5 +1,7 @@
 ### Welcome
 
+<a href="https://app.daily.dev/wareja"><img src="https://api.daily.dev/devcards/501869e8fb7f440f897a953f4616c04b.png?r=w56" width="300" alt="Regis Baf's Dev Card"/></a>
+
 Hi,👋🏾 I'm Regis, I am a Software dev with a flair for React-ing and I'm currently reacting to life's problems with code.
 
 Over the last three + years, I have built multiple web and mobile apps and worked with amazing people who taught me alot about DX(Developer Experience) and UX(User Experience) through the use of clean code, and design patterns which became some of the things that I started to care about since then.
