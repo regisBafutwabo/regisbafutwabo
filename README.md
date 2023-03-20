@@ -35,7 +35,7 @@ Some of the skills I am comfortable with includes:
 - Exploring beaches 🏖
 
 ## About Me
-- I'm currently working on improving my craft(My laptop is not having any day off soon 🤣)
+- I'm currently working on improving my craft(My laptop is not having a day off anytime soon 🤣)
 - 📫 How to reach me: regiswareja@gmail.com
 - 👯 I’m open to collaborate on any project which can change people's lives.
 
