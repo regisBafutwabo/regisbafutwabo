@@ -1,6 +1,6 @@
 ### Welcome
 
-<a href="https://app.daily.dev/wareja"><img src="https://github.com/regisBafutwabo/regisbafutwabo/blob/main/devcard.svg" width="300" alt="Regis Baf's Dev Card"/></a>
+<a href="https://app.daily.dev/wareja"><img src="https://api.daily.dev/devcards/v2/VWNsHcXLdsOlRn6i8EwYO.png?type=default&r=o1g" width="356" alt="Regis Baf's Dev Card"/></a>
 
 Hi,👋🏾 I'm Regis, I am a Software dev with a flair for React-ing and I'm currently reacting to life's problems with code.
 
