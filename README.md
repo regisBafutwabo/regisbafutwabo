@@ -7,24 +7,24 @@ Hi,👋🏾 I'm Regis, I am a Software dev with a flair for React-ing and I'm cu
 Over the last three + years, I have built multiple web and mobile apps and worked with amazing people who taught me alot about DX(Developer Experience) and UX(User Experience) through the use of clean code, and design patterns which became some of the things that I started to care about since then.
 
 Some of the skills I am comfortable with includes:
-- Reactjs
+- React
 - React-native
-- NextJS
+- Next.js
 - Typescript
-- NestJs
+- React-query
+- Nestjs
 - REST API
-- GraphQL
+- GraphQL API
 - Hasura
 - Apollo Client
-- Redux
 - Zustand
 - Tailwindcss
 - Chakra-ui
 - Material-ui
-- Ant Design
+- Ant-Design
 - styled-components
-- RelayJs
-- Aws CDK
+- Relay.js
+- Aws services
 - CucumberJS
 - Cypress
 
@@ -35,7 +35,7 @@ Some of the skills I am comfortable with includes:
 - Exploring beaches 🏖
 
 ## About Me
-- I'm currently working on improving my craft(My laptop is not having a day off anytime soon 🤣)
+- I'm currently working on improving my craft
 - 📫 How to reach me: regiswareja@gmail.com
 - 👯 I’m open to collaborate on any project which can change people's lives.
 
