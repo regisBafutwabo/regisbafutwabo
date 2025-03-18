@@ -3,13 +3,13 @@
 <a href="https://app.daily.dev/wareja"><img src="https://api.daily.dev/devcards/v2/VWNsHcXLdsOlRn6i8EwYO.png?type=default&r=o1g" width="356" alt="Regis Baf's Dev Card"/></a>
 
 
-Hi,👋🏾 I'm Regis, I am a Dedicated Software Developer with extensive experience specializing in complex web application development
-using React and server-side rendering with Next.js. Demonstrated expertise in implementing AI solutions,
-blockchain applications, and architecting scalable applications in fast-paced startup environments. Committed to
-writing clean, readable code to facilitate seamless collaboration with cross-functional teams. Passionate about
-staying updated on the latest web technologies and features, actively sharing knowledge to foster continuous
-improvement within the team. Proficient in both frontend and backend development, with a preference for
-frontend work.
+👋🏾 Hey, I'm Regis! I build cool stuff with React and Next.js.
+
+I've shipped AI features, blockchain apps, and scalable web platforms at startups where things move fast. While I can handle both frontend and backend, my heart belongs to the frontend world.
+
+I'm obsessed with clean, readable code that makes my teammates' lives easier. Always hunting for the latest web tech to play with and share with the team.
+
+Let's build something awesome together!
 
 Some of the skills I am comfortable with can be found <a href="https://regisbaf.com" target="_blank" rel="noopener noreferrer">here</a>
 
