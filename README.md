@@ -1,6 +1,6 @@
 ### Welcome
 
-<a href="https://app.daily.dev/wareja"><img src="https://api.daily.dev/devcards/v2/VWNsHcXLdsOlRn6i8EwYO.png?type=default&r=o1g" width="356" alt="Regis Baf's Dev Card"/></a>
+<a href="https://app.daily.dev/wareja"><img src="https://api.daily.dev/devcards/v2/VWNsHcXLdsOlRn6i8EwYO.png?type=default&r=xlp" width="356" alt="Regis Baf's Dev Card"/></a>
 
 
 👋🏾 Hey, I'm Regis! I build cool stuff with React and Next.js and take full ownership of everything I create.
